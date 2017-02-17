@@ -315,5 +315,7 @@
 	"PROCEDURES_CREATE_DO": "Создать вызов '%1'",
 	"PROCEDURES_IFRETURN_TOOLTIP": "Если первое значение истинно, возвращает второе значение.",
 	"PROCEDURES_IFRETURN_HELPURL": "http://c2.com/cgi/wiki?GuardClause",
-	"PROCEDURES_IFRETURN_WARNING": "Предупреждение: Этот блок может использоваться только внутри определения функции."
+	"PROCEDURES_IFRETURN_WARNING": "Предупреждение: Этот блок может использоваться только внутри определения функции.",
+	"ARD_VAR_AS": "как",
+	"ARD_VAR_AS_TIP": "Определяет тип переменной. Character -символьный тип char, Text -текствоая строка string, Boolean -логический тип boolean, Short Number -знаковый тип char, Number -целочисленный тип int, Large Number -целочисленный тип в расширенном диапазоне, Decimal - числовой тип для чисел с плавающей запятой float."
 }
